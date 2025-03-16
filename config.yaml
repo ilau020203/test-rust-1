@@ -1,0 +1,13 @@
+rpc_url: "https://api.mainnet-beta.solana.com"
+wallets:
+  - "HN7cABqLq46Es1jh92dQQisAq662SmxELLLsHHe4YWrH"
+  - "5vBtBNVdqNRhGPqE5DdiQnp6Qh5wqrS3VC8UbdA3XpVz"
+  - "HyDAnhcj7Er5qVHireifnezrSxhYaauFrDNa82nTpump"
+  - "3pcz387Lg1xgYDQxgt3nSSzMV5u4PqmvjwgQ9qa66MNa" 
+  - "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+  - "HN7cABqLq46Es1jh92dQQisAq662SmxELLLsHHe4YWrH"
+  - "5vBtBNVdqNRhGPqE5DdiQnp6Qh5wqrS3VC8UbdA3XpVz"
+  - "HyDAnhcj7Er5qVHireifnezrSxhYaauFrDNa82nTpump"
+  - "3pcz387Lg1xgYDQxgt3nSSzMV5u4PqmvjwgQ9qa66MNa" 
+  - "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+  - "CvQZZ23qYDWF2RUpxYJ8y9K4skmuvYEEjH7fK58jtipQ"
